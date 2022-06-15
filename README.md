@@ -2,7 +2,8 @@
 
 ---
 vue3,element.ui
-
+## 工夫点
+トップページ：音楽放送コンポ、vue3 api、axiosの使用、vuexで再生ボタンの実現、css3で放送ページの実現、vueのwatchとrefで歌詞スクロール効果、サーバー端（Node.js）
 ## API
 Backend interface
 网易云API
